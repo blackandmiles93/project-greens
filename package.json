@@ -1,0 +1,22 @@
+{
+  "name": "projectgreens",
+  "version": "1.0.0",
+  "description": "An app for delivering your greens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackandmiles93/project-greens.git"
+  },
+  "author": "Miles Perkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackandmiles93/project-greens/issues"
+  },
+  "homepage": "https://github.com/blackandmiles93/project-greens#readme",
+  "dependencies": {
+    "pg": "^7.4.3"
+  }
+}
